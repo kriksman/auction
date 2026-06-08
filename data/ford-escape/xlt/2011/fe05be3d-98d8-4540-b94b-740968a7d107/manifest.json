@@ -1,0 +1,38 @@
+{
+  "title": "FORD ESCAPE, XLT",
+  "sourceUrl": "https://banzai24.com/en/car/JP/019e9551-b8fd-774a-93cb-b1ea11a7d642",
+  "description": "FORD ESCAPE, XLTJapan Lot 60002, MIRIVE Saitama, 10.06.2026 12:003.5RatingVerifiedWas Traded BeforeYear : 2011 Mileage : 115 000 km Gearbox : Automatic Color : Red Engine : 2.3 l / 157 hp Body number/VIN : LFACTF*****000700 Drive : - Bidding time : 12:00 Until trading starts : 41 h 25 m Start price:0 ¥Final price:0 ¥ListedListedOrder auction list translationOrder translationSales statistics for this modelPrice history:from 81,000 ¥ to 302,000 ¥View lots17.02.202608.06.2026",
+  "specs": {
+    "Year": "2011",
+    "Mileage": "115 000 km",
+    "Gearbox": "Automatic",
+    "Color": "Red",
+    "Engine": "2.3 l / 157 hp",
+    "Body number/VIN": "LFACTF*****000700",
+    "Drive": "-",
+    "Bidding time": "12: 00",
+    "Until trading starts": "41 h 25 m"
+  },
+  "images": [
+    {
+      "url": "https://banzai24.com/api/image-service/v2_AAECAwQFBgcICQoLDA0ODwrokxFmqnaUC8GYaEpo2tUXeblInE28RSohlYfiEelisfFZ4Q_h19_2_h_48dwKKgv9Q2TYRe8J8aNrs_tfBmaTGzFk3oq6eAWsx_R5T-AJyA_K",
+      "localPath": "/app/storage/downloads/fe05be3d-98d8-4540-b94b-740968a7d107/001.jpg"
+    },
+    {
+      "url": "https://banzai24.com/api/image-service/v2_AAECAwQFBgcICQoLDA0ODwrokxFmqnaUC8GYaEpo2tUXeblInE28RSohlYfiEelisfFZ4Q_h19_2_h_48dwKKgv9Q2TYRe8J8aNrs_tfBmaTGzFk3oq6eAWsx_R5T-MJDT-M",
+      "localPath": "/app/storage/downloads/fe05be3d-98d8-4540-b94b-740968a7d107/002.jpg"
+    },
+    {
+      "url": "https://banzai24.com/api/image-service/v2_AAECAwQFBgcICQoLDA0ODwrokxFmqnaUC8GYaEpo2tUXeblInE28RSohlYfiEelisfFZ4Q_h19_2_h_48dwKKgv9Q2TYRe8J8aNrs_tfBmaTGzFk3oq6eAWsx_R5T-IJyOhQ",
+      "localPath": "/app/storage/downloads/fe05be3d-98d8-4540-b94b-740968a7d107/003.jpg"
+    },
+    {
+      "url": "https://banzai24.com/api/image-service/v2_AAECAwQFBgcICQoLDA0ODwrokxFmqnaUC8GYaEpo2tUXeblInE28RSohlYfiEelisfFZ4Q_h19_2_h_48dwKKgv9Q2TYRe8J8aNrs_tfBmaTGzFk3oq6eAWsx_R5T-EJY4FL",
+      "localPath": "/app/storage/downloads/fe05be3d-98d8-4540-b94b-740968a7d107/004.jpg"
+    }
+  ],
+  "lotId": "fe05be3d-98d8-4540-b94b-740968a7d107",
+  "runId": "1988",
+  "imageCount": 4,
+  "basePath": "data/ford-escape/xlt/2011/fe05be3d-98d8-4540-b94b-740968a7d107"
+}
